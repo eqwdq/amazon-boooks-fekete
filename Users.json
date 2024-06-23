@@ -1,0 +1,56 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "birth_date": "1980-05-15T00:00:00Z",
+    "gender": "Male",
+    "age": 44,
+    "email": "john.doe@example.com",
+    "reviews": "60b8d295fbd1c22d58b84d2e",
+    "publishers": "60b8d295fbd1c22d58b84d2b",
+    "address": {
+      "address_id": "addr4",
+      "street": "456 Main St",
+      "city": "Springfield",
+      "postal_code": "62704",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "birth_date": "1990-07-20T00:00:00Z",
+    "gender": "Female",
+    "age": 33,
+    "email": "jane.smith@example.com",
+    "reviews": "60b8d295fbd1c22d58b84d2f",
+    "publishers": "60b8d295fbd1c22d58b84d2c",
+    "address": {
+      "address_id": "addr5",
+      "street": "789 Elm St",
+      "city": "Metropolis",
+      "postal_code": "62960",
+      "state": "IL",
+      "country": "USA"
+    }
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Johnson",
+    "birth_date": "1985-11-30T00:00:00Z",
+    "gender": "Female",
+    "age": 38,
+    "email": "emily.johnson@example.com",
+    "reviews": "60b8d295fbd1c22d58b84d30",
+    "publishers": "60b8d295fbd1c22d58b84d2d",
+    "address": {
+      "address_id": "addr6",
+      "street": "321 Oak St",
+      "city": "Smallville",
+      "postal_code": "62052",
+      "state": "IL",
+      "country": "USA"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "publisherName": "Penguin Random House",
+    "founder": 1,
+    "website": "https://www.penguinrandomhouse.com",
+    "Books": "60b8d295fbd1c22d58b84d2b",
+    "address": {
+      "address_id": "addr1",
+      "street": "1745 Broadway",
+      "city": "New York",
+      "postal_code": "10019",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "publisherName": "HarperCollins",
+    "founder": 2,
+    "website": "https://www.harpercollins.com",
+    "Books": "60b8d295fbd1c22d58b84d2c",
+    "address": {
+      "address_id": "addr2",
+      "street": "195 Broadway",
+      "city": "New York",
+      "postal_code": "10007",
+      "state": "NY",
+      "country": "USA"
+    }
+  },
+  {
+    "publisherName": "Simon & Schuster",
+    "founder": 3,
+    "website": "https://www.simonandschuster.com",
+    "Books": "60b8d295fbd1c22d58b84d2d",
+    "address": {
+      "address_id": "addr3",
+      "street": "1230 Avenue of the Americas",
+      "city": "New York",
+      "postal_code": "10020",
+      "state": "NY",
+      "country": "USA"
+    }
+  }
+]
